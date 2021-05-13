@@ -3,7 +3,7 @@
 """
 @author : apple
 @version : python 3.9
-// TODO : 2021/5/21
+// TODO : 2021/5/10
 // 机器学习 Pytorch 进行相关对深度学习,和图像的分析
 """
 import pandas
